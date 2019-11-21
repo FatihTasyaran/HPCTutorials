@@ -10,15 +10,6 @@
 Then  
 `ssh username@tosun`  
 
-## SLURM Scheduling
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## NextFlow Pipelines
-
 ## Saving Your Output
 While submitting your job to query, there are several ways to save your output.  
   
